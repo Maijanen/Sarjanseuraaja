@@ -1,5 +1,6 @@
-#Harjoitustyö: Sarjaseuraaja-tietokantasovellus
-##Syksy 2019
+# Harjoitustyö: Sarjaseuraaja-tietokantasovellus
+## Syksy 2019
+Maija Huotari
 
 # Sarjaseuraaja
  Sovellus sarjojen edistymisen hallintaan ja muistamiseen
@@ -25,3 +26,10 @@
    * Sarjojen hakeminen genren tai palveluntarjoajan perusteella
    * Katselulistan hakutoiminnot käyttäjäkohtaisten attribuuttien (vaihe, arvosana) perusteella
    * Katselulistan hakutoiminnot vapaasanahaulla tai genren tai palveluntarjoajan perusteella
+
+
+## Tietokantakaavio:
+
+[Tietokantakaavio]: https://drive.google.com/open?id=1403IqbIIXy6WILwnIy59RplnAey4jVt_ "Tietokantakaavio"
+! [Tietokantakaavio]
+
