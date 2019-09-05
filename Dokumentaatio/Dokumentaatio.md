@@ -30,5 +30,5 @@ Maija Huotari
 
 ## Tietokantakaavio:
 
-[Tietokantakaavio]: https://drive.google.com/open?id=1403IqbIIXy6WILwnIy59RplnAey4jVt_
+[Tietokantakaavio]: (Dokumentaatio/Tietokantakaavio.png "Tietokantakaavio")
 ![Tietokantakaavio]
