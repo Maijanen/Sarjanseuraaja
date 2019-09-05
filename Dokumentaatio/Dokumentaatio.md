@@ -30,5 +30,5 @@ Maija Huotari
 
 ## Tietokantakaavio:
 
-[Tietokantakaavio]: (Dokumentaatio/Tietokantakaavio.png "Tietokantakaavio")
 ![Tietokantakaavio]
+[Tietokantakaavio]: https://github.com/Maijanen/Sarjaseuraaja/blob/master/Dokumentaatio/Tietokantakaavio.png "Tietokantakaavio"
