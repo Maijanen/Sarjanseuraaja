@@ -24,8 +24,8 @@ Maija Huotari
    * Omalla katselulistalla olevan sarjan edistymistietojen päivittäminen
    * Sarjojen hakeminen vapaasanahaulla
    * Sarjojen hakeminen genren tai palveluntarjoajan perusteella
-   * Katselulistan hakutoiminnot käyttäjäkohtaisten attribuuttien (vaihe, arvosana) perusteella
-   * Katselulistan hakutoiminnot vapaasanahaulla tai genren tai palveluntarjoajan perusteella
+   * Katselulistan haku/listaustoiminnot käyttäjäkohtaisten attribuuttien (vaihe, arvosana) perusteella
+   * Katselulistan haku/listaustoiminnot vapaasanahaulla tai genren tai palveluntarjoajan perusteella
 
 
 ## Tietokantakaavio:
