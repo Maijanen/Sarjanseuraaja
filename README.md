@@ -1,4 +1,4 @@
-# Sarjaseuraaja
+# Sarjanseuraaja
  Sovellus sarjojen edistymisen hallintaan ja muistamiseen
 
  Sovelluksen tehtävänä on hallinnoida hakutoimintoineen ja edistymistietoineen listausta sellaisista televisio- tai nettisarjoista, joita käyttäjä seuraa, on seurannut tai aikoo tulevaisuudessa vielä jonain päivänä seurata.
