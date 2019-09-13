@@ -7,4 +7,6 @@
   
  Jokainen käyttäjä voi myös lisätä tietokantaan uusia sarjoja. Sarjaa voi muokata jälkikäteen tai poistaa sovelluksen tietokannasta vain pääkäyttäjä, mutta jokainen peruskäyttäjä voi poistaa sarjan omalta katselulistaltaan. Sarjaa tietokantaan lisättäessä sille annetaan tieto nimen, ilmestymisvuoden, genren ja kuvauksen lisäksi myös palveluntarjoajista, eli siitä mitä kautta sarjaa voi seurata. Palveluntarjoajia voi myös syöttää tietokantaan kuka tahansa käyttäjä, mutta niitä voi poistaa tai muokata vain pääkäyttäjäoikeuksilla. Genrejä hallinnoi vain pääkäyttäjä.
 
- Sovelluksesta löytyy tarkempaa tietoa (mm. tietokantakaavio) Dokumentaatio-osiosta.
+ Sovelluksesta löytyy tarkempaa tietoa (mm. tietokantakaavio) Dokumentaatio-osiosta (https://github.com/Maijanen/Sarjanseuraaja/blob/master/Dokumentaatio/Dokumentaatio.md).
+
+ Linkki sovellukseen: https://sarjanseuraaja.herokuapp.com/
