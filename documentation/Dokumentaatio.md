@@ -29,4 +29,59 @@ Maija Huotari
 ## Tietokantakaavio:
  
 
-![Tietokantakaavio](https://github.com/Maijanen/Sarjaseuraaja/blob/master/Dokumentaatio/Tietokantakaavio.png "Tietokantakaavio")
+![Tietokantakaavio](https://github.com/Maijanen/Sarjaseuraaja/blob/master/documentation/Tietokantakaavio.png "Tietokantakaavio")
+
+
+## Käyttötapauksia:
+
+### Rekisteröityminen
+
+Voin rekisteröityä palveluun käyttäjäksi.
+
+### Kirjautuminen
+
+Voin kirjautua sisään palveluun antamalla käyttäjätunnukseni ja salasanani.
+
+### Sarjan lisääminen tietokantaan
+
+Kirjautuneena käyttäjänä voin lisätä sarjan tietokantaan.
+
+### Sarjan tietojen muokkaaminen
+
+Kirjautuneena käyttäjänä voin muokata tietokannassa olevan sarjan tietoja.
+
+### Sarjojen listaus
+
+Kirjautuneena käyttäjänä voin selata listaa kaikista tietokannan sarjoista
+
+### Sarjojen hakeminen tietokannasta
+
+Kirjautuneena käyttäjänä voin hakea sarjoja tietokannasta erilaisilla hakuehdoilla
+
+### Sarjan lisääminen omalle katselulistalle
+
+Kirjautuneena käyttäjänä voin lisätä sarjan omalle katselulistalle
+
+### Sarjan poistaminen omalta katselulistalta
+
+Kirjautuneena käyttäjänä voin poistaa sarjan omalta katselulistalta
+
+### Katselulistalla olevan sarjan tietojen päivittäminen
+
+Kirjautuneena käyttäjänä voin muokata ja päivittää omalla listalla olevan sarjan katselutietoja ja arvostelua.
+
+### Sarjan hakeminen omalta katselulistalta
+
+Kirjautuneena käyttäjänä voin hakea omalta katselulistaltani sarjoja erilaisilla hakuehdoilla.
+
+### Sarjan poistaminen tietokannasta
+
+Kirjautuneena pääkäyttäjänä voin poistaa sarjan tietokannasta.
+
+### Palveluntarjoajan lisääminen, muokkaaminen ja poistaminen
+
+Kirjautuneena pääkäyttäjänä voin lisätä, poistaa ja muokata palveluntarjoajia tietokannassa.
+
+### Genren lisääminen, muokkaaminen ja poistaminen
+
+Kirjautuneena pääkäyttäjänä voin lisätä, poistaa ja muokata genrejä tietokannassa.
