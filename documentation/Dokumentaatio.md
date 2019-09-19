@@ -29,7 +29,7 @@ Maija Huotari
 ## Tietokantakaavio:
  
 
-![Tietokantakaavio](/blob/master/documentation/Tietokantakaavio.png "Tietokantakaavio")
+![Tietokantakaavio](/documentation/Tietokantakaavio.png "Tietokantakaavio")
 
 
 ## Käyttötapauksia
