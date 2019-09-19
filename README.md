@@ -11,6 +11,6 @@
 
  ![Tietokantakaavio](/blob/master/documentation/Tietokantakaavio.png "Tietokantakaavio")
 
- ![Käyttötapauksia](/blob/master/documentation/Dokumentaatio#user-comment-kayttotapauksia "Käyttötapauksia")
+ ![Käyttötapauksia](/blob/master/documentation/Dokumentaatio.md#user-content-kayttotapauksia "Käyttötapauksia")
 
  Linkki sovellukseen: https://sarjanseuraaja.herokuapp.com/
