@@ -6,6 +6,11 @@
   </head>
 
   <body>
+    <ul>
+      <li><a href="{{ url_for('index') }}">Etusivulle</a> </li>
+      <li><a href="{{ url_for('series_index') }}">Kaikki sarjat</a> </li>
+      <li><a href="{{ url_for('series_form') }}">Lisää uusi sarja</a> </li>
+    </ul>
     {% block body %}
     <p>
   Tähän tuodaan sisältö muualta.

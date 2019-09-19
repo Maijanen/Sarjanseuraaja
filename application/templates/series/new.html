@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+  
+{% block body %}
+<form method="POST" action="{{ url_for('series_create') }}">
+  Sarjan nimi: <br>
+  <input type="text" name="name"/>
+  <br> Julkaisuvuosi:<br>
+  <input type="text" name="year" />
+  <br> Kuvaus:<br>
+  <input type="text" name="info" />
+  <br> IMDB-linkki:<br>
+  <input type="text" name="link" />
+  <br>
+  <input type="submit" value="Lisää uusi sarja"/>
+</form>
+{% endblock %}

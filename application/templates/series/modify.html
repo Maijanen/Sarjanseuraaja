@@ -1,0 +1,16 @@
+{% extends "layout.html" %}
+  
+{% block body %}
+<form method="POST" action="{{ url_for('series_modifyid') }}">
+  Sarjan nimi: <br>
+  <input type="text" name="name" value="{{ serie.name }}"/>
+  <br> Julkaisuvuosi:<br>
+  <input type="text" name="year" value="{{ serie.year }}" />
+  <br> Kuvaus:<br>
+  <input type="text" name="info" value="{{ serie.info }}"/>
+  <br> IMDB-linkki:<br>
+  <input type="text" name="link" value="{{ serie.link }}"/>
+  <br>
+  <input type="submit" value="Muokkaa sarjan tietoja"/>
+</form>
+{% endblock %}

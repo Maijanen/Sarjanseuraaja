@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+
+{% block body %}
+  <table>
+    <tr>
+      <th>ID</th>
+      <th>Sarja</th>
+      <th>Kuvaus</th>
+      <th>Julkaisuvuosi</th>
+      <th>Imdb</th>
+    </tr>
+    {% for serie in series %}
+    <tr>
+      <td>{{ serie.id }} </td>
+      <td>{{ serie.name }}</td>
+      <td>{{ serie.info }}</td>
+      <td>{{ serie.year }}</td>
+      <td>{{ serie.link }}</td>
+      <td><button onclick="window.location.href = '/series/modify/{{serie.id}}'">Muokkaa</button></td>
+    </tr>
+    {% endfor %}
+  </table>
+{% endblock %}
