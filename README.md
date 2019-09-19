@@ -9,8 +9,8 @@
 
  Sovelluksesta löytyy tarkempaa tietoa Dokumentaatio-osiosta (https://github.com/Maijanen/Sarjanseuraaja/blob/master/documentation/Dokumentaatio.md).
 
- ![Tietokantakaavio](https://github.com/Maijanen/Sarjaseuraaja/blob/master/documentation/Tietokantakaavio.png "Tietokantakaavio")
+ ![Tietokantakaavio](/blob/master/documentation/Tietokantakaavio.png "Tietokantakaavio")
 
- ![Käyttötapauksia](https://github.com/Maijanen/Sarjaseuraaja/blob/master/documentation/Dokumentaatio.md#käyttötapauksia: "Käyttötapauksia")
+ ![Käyttötapauksia](/blob/master/documentation/Dokumentaatio.md#user-comment-käyttötapauksia "Käyttötapauksia")
 
  Linkki sovellukseen: https://sarjanseuraaja.herokuapp.com/

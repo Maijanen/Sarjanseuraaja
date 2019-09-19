@@ -29,10 +29,10 @@ Maija Huotari
 ## Tietokantakaavio:
  
 
-![Tietokantakaavio](https://github.com/Maijanen/Sarjaseuraaja/blob/master/documentation/Tietokantakaavio.png "Tietokantakaavio")
+![Tietokantakaavio](/blob/master/documentation/Tietokantakaavio.png "Tietokantakaavio")
 
 
-## Käyttötapauksia:
+## Käyttötapauksia
 
 ### Rekisteröityminen
 
