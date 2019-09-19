@@ -5,8 +5,12 @@
 
  Käyttäjät kirjautuvat sisään sovellukseen ja saavat listauksen siitä, mitä sarjoja kyseisellä käyttäjällä on sillä hetkellä kesken. Editymistiedot päivitetään sovellukseen käsin. Hakutoimintoja käyttämällä voi myös etsiä jo kokonaan katsottuja tai päättyneitä sarjoja tai muiden käyttäjien tietokantaan lisäämiä sarjoja. Edistymistietojen lisäksi käyttäjä voi antaa sarjalle oman arvosanan ja tämäkin tieto on käyttäjäkohtainen ja arvosanaa voidaan käyttää hakukriteerinä. Muiden käyttäjien edistymistietoja tai arvosteluja ei pääse katselemaan ilman pääkäyttäjän oikeuksia.
   
- Jokainen käyttäjä voi myös lisätä tietokantaan uusia sarjoja. Sarjaa voi muokata jälkikäteen tai poistaa sovelluksen tietokannasta vain pääkäyttäjä, mutta jokainen peruskäyttäjä voi poistaa sarjan omalta katselulistaltaan. Sarjaa tietokantaan lisättäessä sille annetaan tieto nimen, ilmestymisvuoden, genren ja kuvauksen lisäksi myös palveluntarjoajista, eli siitä mitä kautta sarjaa voi seurata. Palveluntarjoajia voi myös syöttää tietokantaan kuka tahansa käyttäjä, mutta niitä voi poistaa tai muokata vain pääkäyttäjäoikeuksilla. Genrejä hallinnoi vain pääkäyttäjä.
+ Jokainen käyttäjä voi myös lisätä tietokantaan uusia sarjoja. Sarjaa voi muokata jälkikäteen tai poistaa sovelluksen tietokannasta vain pääkäyttäjä, mutta jokainen peruskäyttäjä voi poistaa sarjan omalta katselulistaltaan. Sarjaa tietokantaan lisättäessä sille annetaan tieto nimen, ilmestymisvuoden, genren ja kuvauksen lisäksi myös palveluntarjoajista, eli siitä mitä kautta sarjaa voi seurata. Palveluntarjoajia ja genrejä hallinnoi vain pääkäyttäjä.
 
- Sovelluksesta löytyy tarkempaa tietoa (mm. tietokantakaavio) Dokumentaatio-osiosta (https://github.com/Maijanen/Sarjanseuraaja/blob/master/documentation/Dokumentaatio.md).
+ Sovelluksesta löytyy tarkempaa tietoa Dokumentaatio-osiosta (https://github.com/Maijanen/Sarjanseuraaja/blob/master/documentation/Dokumentaatio.md).
+
+ ![Tietokantakaavio](https://github.com/Maijanen/Sarjaseuraaja/blob/master/documentation/Tietokantakaavio.png "Tietokantakaavio")
+
+ ![Käyttötapauksia](https://github.com/Maijanen/Sarjaseuraaja/blob/master/documentation/Dokumentaatio.md#käyttötapauksia: "Käyttötapauksia")
 
  Linkki sovellukseen: https://sarjanseuraaja.herokuapp.com/
