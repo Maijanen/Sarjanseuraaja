@@ -24,18 +24,16 @@ def series_create():
     return redirect(url_for("series_index"))
 
 
-@app.route("/series/modify/<int:serie_id>", methods=["GET", "POST"])
+@app.route("/series/modify/<int:serie_id>", methods=["GET"])
 def series_modify(serie_id):
-    id = serie_id
     return render_template("series/modify.html",
-                           serie=Serie.query.get(id), serie_id=serie_id)
+                           serie=Serie.query.get(serie_id))
 
 
-@app.route("/series/", methods=["POST"])
-def series_modifyid(serie_id):
-
+@app.route("/series/modify/", methods=["POST"])
+def series_modifyid():
+    serie_id = request.form.get("id")
     s = Serie.query.get(serie_id)
-    s.id = serie_id
     s.name = request.form.get("name")
     s.year = request.form.get("year")
     s.info = request.form.get("info")

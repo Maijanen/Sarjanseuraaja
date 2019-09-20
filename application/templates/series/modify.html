@@ -1,8 +1,9 @@
 {% extends "layout.html" %}
   
 {% block body %}
-<form method="POST" action="{{ url_for('series_modifyid') }}">
-  Sarjan nimi: <br>
+<form method="POST" action="{{ url_for('series_modifyid') }}" >
+  <input type="hidden" name="id" value="{{ serie.id }}"
+  <br> Sarjan nimi: <br>
   <input type="text" name="name" value="{{ serie.name }}"/>
   <br> Julkaisuvuosi:<br>
   <input type="text" name="year" value="{{ serie.year }}" />
